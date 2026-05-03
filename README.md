@@ -1,5 +1,5 @@
 # Laboratorio: Modos de Direccionamiento (Unidad 6 - Parte 2)
-**Estudiante:** [Tu Apellido]  
+**Estudiante:** Cely Urbina William Camilo Igor  
 **Carrera:** Ingeniería de Sistemas  
 **Materia:** Arquitectura de Computadores  
 
